@@ -3,4 +3,4 @@ Takes a video or a video capture  of your face and tells you if you are wearing 
 # Training
 I would recommend training this detection in google colab because it will save you a lot of time. You can then just load the saved model our local machine.
 # Image dataset
-The image files are taken from another github repo. Just run the github clone line in the google colab.
+The image files are taken from another github repo. Just run the github clone line in the google colab
